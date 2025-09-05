@@ -12,6 +12,7 @@ public class Main {
         agenda.add(new Contato("Pessoa 3"));
 
         System.out.println(agenda);
+        System.out.println("Fera!");
 
 
        /*Contato aux = new Contato();
